@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.Api", "Order.Api\Order.Api.csproj", "{E619E5EE-14E7-44D6-8F9F-43F1BD9A3985}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders.Api", "Orders.Api\Orders.Api.csproj", "{E619E5EE-14E7-44D6-8F9F-43F1BD9A3985}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders.Ui", "Orders.Ui\Orders.Ui.csproj", "{7882379B-29F3-42D8-B810-D805D598B5F1}"
 EndProject
